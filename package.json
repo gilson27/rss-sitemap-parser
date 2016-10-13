@@ -1,0 +1,25 @@
+{
+  "name": "rss-sitemap-parser",
+  "version": "1.0.0",
+  "description": "A module to parse rss and sitemap and give you the links or contents in JSON or HTML format. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilson27/rss-sitemap-parser.git"
+  },
+  "keywords": [
+    "rss",
+    "sitemap",
+    "xml",
+    "parse"
+  ],
+  "author": "Gilson Varghese",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gilson27/rss-sitemap-parser/issues"
+  },
+  "homepage": "https://github.com/gilson27/rss-sitemap-parser#readme"
+}
